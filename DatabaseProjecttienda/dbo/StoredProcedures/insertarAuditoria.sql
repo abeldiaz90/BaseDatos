@@ -1,4 +1,4 @@
-create procedure insertarAuditoria
+alter procedure insertarAuditoria
 @PipelineId UNIQUEIDENTIFIER,
 @registrosleidos INT,
 @registrosescritos INT,
